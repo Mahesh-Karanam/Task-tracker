@@ -1,0 +1,10 @@
+/* App.module.css */
+.app {
+  text-align: center;
+  margin: 20px;
+}
+
+.title {
+  font-size: 2rem;
+  color: #333;
+}
